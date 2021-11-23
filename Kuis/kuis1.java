@@ -1,5 +1,4 @@
-import java.util.*;
-import java.text.*;
+import java.util.Scanner;
 
 public class kuis1 {
 	public static void main(String[] args) {
